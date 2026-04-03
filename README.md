@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there
+
+I’m Piers Chatham, a Computer Science student at USC.
+
+I’m part of the Formula SAE team and deeply interested in motorsports—especially F1.
+My work and career interests focus on data analysis and physical modeling in racing environments.
+
+Current Highlight: [Yaw Moment Diagram](https://github.com/PiersC1/YawMomentDiagram_PythonPort)
 
 <!--
 **PiersC1/PiersC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
